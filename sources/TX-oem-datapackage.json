@@ -1,0 +1,899 @@
+{
+    "name": "TX",
+    "title": "",
+    "id": "",
+    "description": "The dataset describes the metropolitan region Berlin-Brandenburg.",
+    "language": [
+        ""
+    ],
+    "keywords": [
+        ""
+    ],
+    "publicationDate": "",
+    "context": {
+        "homepage": "",
+        "documentation": "",
+        "sourceCode": "",
+        "contact": "",
+        "grantNo": "",
+        "fundingAgency": "",
+        "fundingAgencyLogo": "",
+        "publisherLogo": ""
+    },
+    "spatial": {
+        "location": "Berlin-Brandenburg",
+        "extent": "",
+        "resolution": "NUTS2"
+    },
+    "temporal": {
+        "referenceDate": "",
+        "timeseries": {
+            "start": "01.01.2016",
+            "end": "31.12.2016",
+            "resolution": "hourly",
+            "alignment": "",
+            "aggregationType": ""
+        }
+    },
+    "sources": [
+        {
+            "title": "[<agency2016a>]",
+            "description": "Danish Energy Agency and Energinet. Technology data - energy plants for electricity and district heating generation. 0005, pp. 1–338, 2016.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<kost2018>]",
+            "description": "Christoph Kost, Johannes N. Mayer, Jessica Thomsen, Niklas Hartmann, Charlotte Senkpiel, Simon Philipps, Simon Lude, and Thomas Schlegl. Stromenstehungskosten erneuerbare energien. Technical report, Fraunhofer Institute for Solar Energy Systems ISE, 2013.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<schroeder2013>]",
+            "description": "Andreas Schroeder, Friedrich Kunz, Jan Meiss, Roman Mendelevitch, and Christian von Hirschhausen. Current and prospective costs of electricity generation until 2050. DIW Berlin, 68, pp. 1–104, 2013. ISSN: 1861-1532.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<economicaffairs2019>]",
+            "description": "Federal Ministry for Economic Affairs and Energy. Zahlen und fakten energiedaten - nationale und internationale entwicklung. Technical report, Federal Ministry for Economic Affairs and Energy, 2019.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<bundesnetzagentur2017>]",
+            "description": "Bundesnetzagentur. Kraftwerksliste der bundesnetzagentur - stand: 07.11.2017. Data, Bundesnetzagentur, 2017. Auswertung Regional.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<agency>]",
+            "description": "German Environment Agency. Netto-wirkungsgrade.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<juhrich2016>]",
+            "description": "Kristina Juhrich. Co2 emission factors for fossil fuels. Technical Report 28, German Environment Agency, 2016.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<opsd>]",
+            "description": "Open Power System Data. conventional_power_plants_de.",
+            "path": "BB_BE.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<siala2012>]",
+            "description": "Kais Siala. Technical, economic and ecological analysis of conventional and innovative power transmission technologies, 2012.",
+            "path": "TX.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<twele2012>]",
+            "description": "Jochen Twele, Berit Mueller, Caroline Moeller, Markus Hlusiak, Uwe Krien, and Michael Kastner. Szenarioberechnung einer strom-und waermeversorgung der region brandenburg-berlin auf basis erneuerbarer energien. Technical report, Reiner Lemoine Institut gGmbH, 2012.",
+            "path": "TX.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<entsoe>]",
+            "description": "ENTSO-E. Data platform - time series, 50hz load actual.",
+            "path": "TX.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<erneuerbareenergien>]",
+            "description": "Agentur fuer Erneuerbare Energien. Landesinfo, strom, bruttoendenergieverbrauch strom.",
+            "path": "TX.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<staffell2016>]",
+            "description": "Iain Staffell and Stefan Pfenninger. Using bias-corrected reanalysis to simulate current and future wind power output. Energy, 114, pp. 1224–1239, nov 2016.",
+            "path": "TX.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        },
+        {
+            "title": "[<pfenninger2016>]",
+            "description": "Stefan Pfenninger and Iain Staffell. Long-term patterns of european PV output using 30 years of validated hourly reanalysis and satellite data. Energy, 114, pp. 1251–1265, nov 2016.",
+            "path": "TX.bib",
+            "licenses": [
+                {
+                    "name": "",
+                    "title": "",
+                    "path": "",
+                    "instruction": "",
+                    "attribution": ""
+                }
+            ]
+        }
+    ],
+    "licenses": [
+        {
+            "name": "",
+            "title": "",
+            "path": "",
+            "instruction": "",
+            "attribution": ""
+        }
+    ],
+    "contributors": [
+        {
+            "title": "jh-RLI",
+            "email": "jonas.huber@rl-institut.de",
+            "date": "2020-06-02",
+            "object": "metadata",
+            "comment": "Create Metadata"
+        },
+        {
+            "title": "cm-RLI",
+            "email": "christoph.muschner@rl-institut.de",
+            "date": "18.06.20",
+            "object": "metadata",
+            "comment": "add general information"
+        }
+    ],
+    "resources": [
+        {
+            "profile": "tabular-data-resource",
+            "name": "Global",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "property",
+                        "description": "",
+                        "type": "",
+                        "unit": null
+                    },
+                    {
+                        "name": "value",
+                        "description": "",
+                        "type": "infinit",
+                        "unit": "CO2"
+                    },
+                    {
+                        "name": "description",
+                        "description": "",
+                        "type": "text",
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            ""
+                        ],
+                        "reference": {
+                            "resource": "",
+                            "fields": [
+                                ""
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "Site",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "name",
+                        "description": "full name",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "area_id",
+                        "description": "short name",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "area",
+                        "description": "",
+                        "type": "integer",
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "id", 
+                    "area_id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            ""
+                        ],
+                        "reference": {
+                            "resource": "",
+                            "fields": [
+                                ""
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "Commodity",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "site_id",
+                        "description": "short site name",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "commodity",
+                        "description": "Energy generation resource",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "type",
+                        "description": "todo",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "price",
+                        "description": "todo",
+                        "type": "decimal",
+                        "unit": "Euro"
+                    },
+                    {
+                        "name": "max",
+                        "description": "todo",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "maxperhour",
+                        "description": "todo",
+                        "type": "text",
+                        "unit": null
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            "site_id"
+                        ],
+                        "reference": {
+                            "resource": "Site",
+                            "fields": [
+                                "area_id"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "Process",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "site_id",
+                        "description": "short site name",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "process",
+                        "description": "Plant type",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "inst-cap",
+                        "description": "todo",
+                        "type": "float",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "cap-lo",
+                        "description": "todo",
+                        "type": "float",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "cap-up",
+                        "description": "todo",
+                        "type": "decimal",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "max-grad",
+                        "description": "todo",
+                        "type": "infinity",
+                        "unit": null
+                    },
+                    {
+                        "name": "min-fraction",
+                        "description": "todo",
+                        "type": "integer",
+                        "unit": null
+                    },
+                    {
+                        "name": "capex",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "EURO/MW"
+                    },
+                    {
+                        "name": "fix-cost",
+                        "description": "todo",
+                        "type": "integer",
+                        "unit": "Euro"
+                    },
+                    {
+                        "name": "var-cost",
+                        "description": "todo",
+                        "type": "float",
+                        "unit": "Euro"
+                    },
+                    {
+                        "name": "wacc",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "depreciation",
+                        "description": "todo",
+                        "type": "integer",
+                        "unit": null
+                    },
+                    {
+                        "name": "area-per-cap",
+                        "description": "todo",
+                        "type": "todo",
+                        "unit": "todo"
+                    }
+                ],
+                "primaryKey": [
+                    ""
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            "site_id"
+                        ],
+                        "reference": {
+                            "resource": "Site",
+                            "fields": [
+                                "area_id"
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "Process-Commodity",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "process",
+                        "description": "Plant type",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "commodity",
+                        "description": "Energy generation resource",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "direction",
+                        "description": "Input/Output flow",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "ratio",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "ratio-min",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "emission factor",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "co2"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            ""
+                        ],
+                        "reference": {
+                            "resource": "",
+                            "fields": [
+                                ""
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "Transmission",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "site_in",
+                        "description": "Input location as short side name",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "site_out",
+                        "description": "Ouput location as short side name",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "transmission",
+                        "description": "transmission level",
+                        "type": "text",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "commodity",
+                        "description": "Energy generation resource",
+                        "type": "text",
+                        "unit": null
+                    },
+                    {
+                        "name": "eff",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "fix-cost",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "Euro"
+                    },
+                    {
+                        "name": "var-cost",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "Euro"
+                    },
+                    {
+                        "name": "inst-cap",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "cap-lo",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "cap-up",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "wacc",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "depreciation",
+                        "description": "todo",
+                        "type": "integer",
+                        "unit": "todo"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            ""
+                        ],
+                        "reference": {
+                            "resource": "",
+                            "fields": [
+                                ""
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "Demand",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "t_index",
+                        "description": "Timestep",
+                        "type": "integer",
+                        "unit": "day"
+                    },
+                    {
+                        "name": "timestamp",
+                        "description": "Timestemp todo",
+                        "type": "datetime",
+                        "unit": "yyyy-mm-dd-hh-mm"
+                    },
+                    {
+                        "name": "BE",
+                        "description": "Values for each timestamp in BE site",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "BB",
+                        "description": "Values for each timestamp in BB site",
+                        "type": "numeric",
+                        "unit": "todo"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            ""
+                        ],
+                        "reference": {
+                            "resource": "",
+                            "fields": [
+                                ""
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        },
+        {
+            "profile": "tabular-data-resource",
+            "name": "Suplm",
+            "path": "TX_sources.xlsx",
+            "format": "xlsx",
+            "encoding": "UTF-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "id", 
+                        "description": "Unique identifier", 
+                        "type": "bigint", 
+                        "unit": null
+                    },
+                    {
+                        "name": "t",
+                        "description": "Timestep",
+                        "type": "integer",
+                        "unit": "day"
+                    },
+                    {
+                        "name": "BE.Solar",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "BB.Solar",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "BE.Wind",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "BB.Wind",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    },
+                    {
+                        "name": "BB.Hydro",
+                        "description": "todo",
+                        "type": "numeric",
+                        "unit": "todo"
+                    }
+                ],
+                "primaryKey": [
+                    "id"
+                ],
+                "foreignKeys": [
+                    {
+                        "fields": [
+                            ""
+                        ],
+                        "reference": {
+                            "resource": "",
+                            "fields": [
+                                ""
+                            ]
+                        }
+                    }
+                ]
+            },
+            "dialect": {
+                "delimiter": "",
+                "decimalSeparator": "."
+            }
+        }
+    ],
+    "review": {
+        "path": "",
+        "badge": ""
+    },
+    "metaMetadata": {
+        "metadataVersion": "OEP-1.4.0",
+        "metadataLicense": {
+            "name": "CC0-1.0",
+            "title": "Creative Commons Zero v1.0 Universal",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    },
+    "_comment": {
+        "metadata": "Metadata documentation and explanation (https://github.com/OpenEnergyPlatform/organisation/wiki/metadata)",
+        "dates": "Dates and time must follow the ISO8601 including time zone (YYYY-MM-DD or YYYY-MM-DDThh:mm:ss±hh)",
+        "units": "Use a space between numbers and units (100 m)",
+        "languages": "Languages must follow the IETF (BCP47) format (en-GB, en-US, de-DE)",
+        "licenses": "License name must follow the SPDX License List (https://spdx.org/licenses/)",
+        "review": "Following the OEP Data Review (https://github.com/OpenEnergyPlatform/data-preprocessing/wiki)",
+        "null": "If not applicable use (null)"
+    }
+}

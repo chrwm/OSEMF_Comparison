@@ -1,0 +1,1 @@
+The python paths are absolute paths and have to be adjusted to run the scripts and oemof models.
