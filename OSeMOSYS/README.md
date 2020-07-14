@@ -6,7 +6,7 @@ Due to the RES's simplicity its linear programme is very reduced and easy to rea
 
 The **RES "TX"** represents the metropolitan region Berlin-Brandenburg. \
 "TX" is a simple two-node model, which exists in three different temporal resolutions and in dispatch as well as investment mode. \
-The RES includes six technology-specific parameters (investment costs, fixed costs, variable costs, lifetime, installed capacity, efficiency) and the discount rate (WACC) as technology-unspecific paramter. \
+The RES includes six technology-specific parameters (investment costs, fixed costs, variable costs, lifetime, installed capacity, efficiency) and the discount rate (WACC) as technology-unspecific parameter. \
 In total six model variations exist, which are specified below:
 
 The "T" in the RES name is short for timesteps, and the "X" indicates: 
