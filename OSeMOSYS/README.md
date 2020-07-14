@@ -1,6 +1,6 @@
 This folder contains the model files of the reference energy system (RES) "S1" and "TX" in OSeMOSYS.
 
-The **RES "S1"** represents a simplified fictional energy system and is just including one fuel import technology, one energy conversion technology and one demand. It is applied to one timestep. \
+The **RES "S1"** represents a simplified fictional energy system and is just including one fuel import technology, one energy conversion technology and one demand. It is applied for one timestep. \
 It can be used to understand mathematical operating principles of OSeMOSYS in practice. \
 Due to the RES's simplicity its linear programme is very reduced and easy to read and can be used to test new equations or modifications.
 
